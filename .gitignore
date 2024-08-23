@@ -1,0 +1,89 @@
+
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Cython build directory
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+ENV/
+env/
+venv.bak/
+env.bak/
+venv3/
+ENV3/
+
+# Pyenv
+.python-version
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Mypy
+.mypy_cache/
+
+# Pylint
+pylint-report.txt
+pylint-global.txt
+
+# Bandit
+.bandit/
+
+# Coverage
+*.cover
+*.coverage
+*.coverage.*
+
+# Logs
+*.log
+
+# Configuration files
+*.env
+*.env.*
+.venv/
+
+# Backup files
+*.bak
+*.tmp
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
+.secret.key
+passwords.db
+todo.md
